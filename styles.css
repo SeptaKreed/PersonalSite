@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 125%;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+  border-color: grey;
+  margin: 60px auto 60px auto;
+}
+
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #eaf6f6;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+}
+
+.bio {
+  text-align: center;
+  width: 25%;
+  margin: auto;
+
+}
+
+.getInTouch{
+  margin-bottom: -10px;
+  margin-top: -20px;
+}
+.skills{
+  margin: 0;
+  width: auto inherit;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.linkedin{
+  text-decoration: none;
+  color: #11999E;
+}
+.copyright{
+  font-family: 'Merriweather', serif;
+  color: white;
+  font-size: 75%;
+  margin-bottom: 0;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.mountain{
+  position: relative;
+  top: 6px;
+}
+.profile-img {
+  border-radius: 50%;
+  margin-top: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 90px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.OOP-img {
+  width: 25%;
+  border-radius: 8%;
+  height: 210px;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-img {
+  width: 25%;
+  border-radius: 8%;
+  height: 210px;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me-btn {
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+color: #FFFFFF;
+font-family: 'Merriweather', serif;
+font-size: 20px;
+font-weight: 100;
+padding: 20px;
+background-color: #11999E;
+box-shadow: 1px 1px 5px 0px #000000;
+-webkit-box-shadow: 1px 1px 5px 0px #000000;
+-moz-box-shadow: 1px 1px 5px 0px #000000;
+text-shadow: 1px 1px 20px #000000;
+border: solid #337FED 0px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+margin: 20px auto 50px auto;
+}
+
+.contact-me-btn:hover {
+background: #66BFBF;
+border: solid #66BFBF 0px;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+text-decoration: none;
+}
